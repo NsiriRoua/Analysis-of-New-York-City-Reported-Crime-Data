@@ -4,18 +4,20 @@ Owning a very large data about NY crimes in the last years, we managed to prepar
 
 This project was prepared by : 
 Zahra GHARBI
+
+
 Roua NSIRI
 
 
-So, Entering this specific data ( look below ) 
+This is our web application :
 
-
+the dashboard :
 
 ![Screenshot](dashborad.png)
 
 
 
 
-You will get this result : 
-
+ And the user interface :
+ 
 ![Screenshot](User_Interface.png))
