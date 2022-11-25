@@ -3,10 +3,13 @@
 Owning a very large data about NY crimes in the last years, we managed to prepare a model and a web application showing the possible crimes you may get when you go to one area in New York. 
 
 This project was prepared by : 
+
+Roua NSIRI 
+
 Zahra GHARBI
 
 
-Roua NSIRI
+
 
 
 This is our web application :
