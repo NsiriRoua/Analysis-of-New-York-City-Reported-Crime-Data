@@ -23,4 +23,4 @@ the dashboard :
 
  And the user interface :
  
-![Screenshot](User_Interface.png))
+![Screenshot](User_Interface.png)
